@@ -22,6 +22,8 @@ void initializelist(LinkedList *list)
 
 void printlist_int(void* data)
 {
+    int i;
+    i = 10;
     // print("the data is:%d",*(int*)data);
 }
 
